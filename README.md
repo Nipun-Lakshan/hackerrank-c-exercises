@@ -33,6 +33,8 @@ The purpose of this repository is to improve my programming skills through conti
 * File Handling
 * Problem Solving
 
+> This repository will be updated as additional topics are learned and implemented.
+
 ## 💻 Requirements
 
 * C Compiler (GCC recommended)

@@ -82,6 +82,12 @@ Run the executable:
 
 The exercises and challenges in this repository are based on problems available on HackerRank.
 
+## 🌐 HackerRank
+
+All problems and exercises in this repository are based on challenges from HackerRank.
+
+- HackerRank Website: https://www.hackerrank.com/
+
 ## 👨‍💻 Author
 
 **Nipun Lakshan**
